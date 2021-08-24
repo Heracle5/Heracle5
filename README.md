@@ -6,8 +6,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java Programming/CV/Radar Image
 - 📫 How to reach me: hangjenchan@std.uestc.edu.cn
 
-
-![Heracle5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heracle5&count_private=true)
 ![Heracle5's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heracle5&layout=compact&hide_border=true&langs_count=10&count_private=true)
 
 
