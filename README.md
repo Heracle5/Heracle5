@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 📕 Heracle5 is interested in Deep Learning, Computer Vision, Radar Imaging.
 - 📫 How to reach Heracle5: hangjenchan@std.uestc.edu.cn
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heracle5)](https://github.com/Heracle5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heracle5&count_private=true)](https://github.com/Heracle5/github-readme-stats)
 
 
 
