@@ -6,6 +6,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java Programming/CV/Radar Image
 - 📫 How to reach me: hangjenchan@std.uestc.edu.cn
 
-![Heracle5's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=Heracle5&show_icons=true&count_private=true&theme=gotham)
 
 
