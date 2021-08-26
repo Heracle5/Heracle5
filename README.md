@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 ![Heracle5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heracle5&count_private=true)
 
-![Heracle5's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heracle5&exclude_repo=&layout=compact&hide_border=true&langs_count=10)
+![Heracle5's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Heracle5&exclude_repo=heracle.github.io&layout=compact&hide_border=true&langs_count=10)
 
 
 
