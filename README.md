@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 👨‍💻 Heracle5 is a third-year undergraduate student in the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC),         Chengdu, Sichuan, China. 
-- 📕 Heracle5 is interested in Deep Learning, Computer Vision, Radar Imaging.
+- 👨‍💻 Heracle5 is an undergraduate student in the School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC),         Chengdu, Sichuan, China. 
+- 📕 Heracle5 is interested in Deep Learning, Radar Vision.
 - 📫 How to reach Heracle5: hangjenchan@std.uestc.edu.cn
 
 ![Heracle5's GitHub stats](https://github-readme-stats.vercel.app/api?username=Heracle5&count_private=true)
