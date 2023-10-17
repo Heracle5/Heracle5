@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 📚 Heracle5 is currently studying for a master's degree in Information and communication technology at Chalmers University of Technology, Sweden🇸🇪. (2023.9-)
 - 📕 Heracle5 is interested in synthetic aperture radar as well as signal processing.
 - 📫 How to reach Heracle5: hangjenchan@icloud.com.
-- ✍🏻 Skills: Matlab>=Java>Python=Verilog>C.
+- ✍🏻 Skills: Matlab>=Java>Python=Verilog>Javascript>C.
 
 
 
