@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach Heracle5: hangjenchan@icloud.com.
 - ✍🏻 Skills: Matlab>=Java>Python=Verilog>Javascript>C.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Heracle5&show_icons=true&theme=material-palenight" alt="Github Status" />
 
 
 
