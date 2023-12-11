@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 📕 Heracle5 is interested in synthetic aperture radar as well as radar signal processing.
 - 📫 How to reach Heracle5: hangjenchan@icloud.com.
 - ✍🏻 PL: Matlab>=Java>Python=Verilog>Javascript>C.
-- 🖤🐘🤍💜 Ace(Panromantic)
+- 🖤🐘🤍💜 Panromantic Asexual(pancake is better than sex)
 
 
 
