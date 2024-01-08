@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - ✍🏻 PL: Matlab>=Java>Python=Verilog>Javascript>C.
 - 🖤🐘🤍💜 Panromantic Asexual(pancake is better than sex)
 
+- ![ViewCount](https://views.whatilearened.today/views/github/<user>/<repo>.svg)
+
 
 
 
