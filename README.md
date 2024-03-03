@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 📫 How to reach Heracle5: hangjenchan@icloud.com.
 - ✍🏻 PL: Matlab>=Java>Python=Verilog>Javascript>C.
 - 🖤🐘🤍💜 Panromantic Asexual(pancake is better than sex)
-- Blog:![My blog](blog.heracle5.win)
+- Blog:[My blog](https://blog.heracle5.win)
 
 - ![ViewCount](https://views.whatilearened.today/views/github/UyGq5tzfrB4M/views.svg)
 
